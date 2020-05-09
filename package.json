@@ -1,0 +1,57 @@
+{
+  "_from": "git+https://github.com/aldrigo/cordova-plugin-fastrde-mqtt.git",
+  "_id": "cordova-plugin-fastrde-mqtt@0.2.0",
+  "_inBundle": false,
+  "_integrity": "",
+  "_location": "/cordova-plugin-fastrde-mqtt",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/aldrigo/cordova-plugin-fastrde-mqtt.git",
+    "rawSpec": "https://github.com/aldrigo/cordova-plugin-fastrde-mqtt.git",
+    "saveSpec": "git+https://github.com/aldrigo/cordova-plugin-fastrde-mqtt.git",
+    "fetchSpec": "https://github.com/aldrigo/cordova-plugin-fastrde-mqtt.git",
+    "gitCommittish": null
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/aldrigo/cordova-plugin-fastrde-mqtt.git#47806670b45ca6c06e686d45cdc3fabe4ecfe8ed",
+  "_spec": "https://github.com/aldrigo/cordova-plugin-fastrde-mqtt.git",
+  "_where": "/Users/vetti/Documents/Cordova/smarthome_ios",
+  "author": {
+    "name": "Fabian Strachanski",
+    "email": "mail@fastr.de"
+  },
+  "bugs": {
+    "url": "https://github.com/fastrde/cordova-plugin-fastrde-mqtt/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-fastrde-mqtt",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Cordova plugin to communicate via mqtt for ios and android",
+  "homepage": "https://github.com/fastrde/cordova-plugin-fastrde-mqtt#readme",
+  "keywords": [
+    "cordova",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios",
+    "mqtt",
+    "push",
+    "iot"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-fastrde-mqtt",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fastrde/cordova-plugin-fastrde-mqtt.git"
+  },
+  "version": "0.2.0"
+}
